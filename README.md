@@ -8,4 +8,4 @@ Enjoy your game with your friends
 
 # Expert Advice
 Practice this game before playing with your friends and try to be the First Player, so that it's easy for you to win.
-Thank you, Hope you like it:-)
+Thank you, Hope you like it :-)
