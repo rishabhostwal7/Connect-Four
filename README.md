@@ -6,6 +6,6 @@ This is a Desktop Application Game
 To Play this game download the project and export jar file using "Intellij Idea". That's it you are done.
 Enjoy your game with your friends
 
-#Expert Advice
+# Expert Advice
 Practice this game before playing with your friends and try to be the First Player, so that it's easy for you to win.
 Thank you, Hope you like it:-)
